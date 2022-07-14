@@ -1,0 +1,26 @@
+{
+    "ProductName": "Boom",
+    "ProductShortDescription" : "boooooom",
+    "ProductDescription" : "booooooooooooooooooom",
+    "ProductStatus" : "Published",
+    "ProductCategories" : [1, 2],
+    "ProductBrand" : 1, 
+    "ProductVariants" : [
+        {
+            "ProductVariantName" : "red",
+            "RegularPrice" : 108.00,
+            "SalePrice" : null,
+            "Quantity" : 10,
+            "Images" : [
+                {
+                    "ImagePath" : "boom/booom/booom.png",
+                    "AlternativeText" : "Boooom"
+                },
+                {
+                    "ImagePath" : "boom/booom/booom.png",
+                    "AlternativeText" : "Boooom"
+                }
+            ]
+        }
+    ]
+}
